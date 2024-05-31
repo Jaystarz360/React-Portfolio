@@ -1,0 +1,40 @@
+html,body { 
+background: linear-gradient(#5AA9E6, #adbca5);
+height: 100%;
+width: 100%;
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+}
+
+*{
+  box-sizing: border-box;
+}
+.background {
+  background-color: #adbca5;
+  background-image: url("");
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+}
+
+.nav-link {
+  color: black;
+}
+
+.name {
+  font-size: 45px;
+}
+
+.form-control {
+  margin: 5px;
+}
+
+main {
+  flex: 1;
+}

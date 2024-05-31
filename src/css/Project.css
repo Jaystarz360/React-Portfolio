@@ -1,0 +1,73 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Portfolio Title */
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  /* Card Styles */
+  .card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 600px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Card Image */
+  .card-img-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
+  /* Card Body */
+  .card-body {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .card-body h5 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Card Links */
+  .card-link {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0066cc;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .card-link:hover {
+    background-color: #004c99;
+    color: #e0e0e0;
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      margin: 20px;
+    }
+  }
