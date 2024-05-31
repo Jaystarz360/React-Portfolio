@@ -35,6 +35,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Description
 As React version of my portfolio
 
+## Screenshot
+![Site Screenshot](./public/React%20Prot.PNG)
+
 ## License
 This software is covered under the following license:
 MIT No Attribution License <br>
