@@ -35,7 +35,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Website 
 [Webiste of Joshua's React Portfolio](https://soft-granita-40ff35.netlify.app/)
 
-## 🔧 Technologies 🔧
+## Screenshot
+![Site Screenshot](./public/React%20Prot.PNG)
+
+## Technologies
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -63,9 +66,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 </p> 
   
 </br>
-
-## Screenshot
-![Site Screenshot](./public/React%20Prot.PNG)
 
 ## License
 This software is covered under the following license:
